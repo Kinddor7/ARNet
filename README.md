@@ -1,8 +1,4 @@
 # ARNet
-Deepfake model detect (ARNet)
-
-
-# ARNet: Adaptive Resampling Network for Video-Based Binary Classification
 
 ARNet is a deep learning framework designed to address *class imbalance* in *video-based binary classification tasks, with a focus on **facial analysis and deepfake detection*.  
 The framework introduces an *adaptive resampling strategy* that balances classes by controlling the number of frames extracted per video, while preserving all video sources.
